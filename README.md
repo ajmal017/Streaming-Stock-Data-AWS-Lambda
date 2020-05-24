@@ -46,7 +46,7 @@ def lambda_handler(event, context):
  ### AWS Kinesis Firehose Delivery Stream
  ![abc](https://github.com/qchau96/Streaming-Finance-Data-AWS-Lambda/blob/master/images/kinesis.png)
  
- ### III. Data Analyzer
+ ## III. Data Analyzer
  * `query.sql`
  ```sql
 SELECT name, ts, hour, high
