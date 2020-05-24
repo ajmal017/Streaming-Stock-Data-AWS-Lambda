@@ -1,4 +1,4 @@
-# Streaming-Finance-Data-AWS-Lambda
+# Streaming-Stock-Data-AWS-Lambda
 
 ## I. Data Collector
 ### Lambda Function URL
